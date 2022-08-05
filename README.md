@@ -14,6 +14,10 @@ To reduce the risk of Banks, this model has been developed to predict customer d
 ## Dataset Information
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in _Taiwan from April 2005 to September 2005_.
 
+## Deployment
+We deploy our model using docker and CI-CD pipeline
+(Link)[https://credit-card-defaultation.herokuapp.com/]
+
 ## Documentations:
 1. HLD : https://drive.google.com/file/d/1q3MJ2XbhQmIrwAgGjrVt9wHUHTWT9olg/view?usp=sharing
 2. LLD : https://drive.google.com/file/d/1pwAHeGs_awqNvD-GjXQdmXo4j6JZmMSB/view?usp=sharing
