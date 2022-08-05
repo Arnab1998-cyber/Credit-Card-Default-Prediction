@@ -16,7 +16,7 @@ This dataset contains information on default payments, demographic factors, cred
 
 ## Deployment
 We deploy our model using docker and CI-CD pipeline
-(Link)[https://credit-card-defaultation.herokuapp.com/]
+[Link](https://credit-card-defaultation.herokuapp.com/)
 
 ## Documentations:
 1. HLD : https://drive.google.com/file/d/1q3MJ2XbhQmIrwAgGjrVt9wHUHTWT9olg/view?usp=sharing
